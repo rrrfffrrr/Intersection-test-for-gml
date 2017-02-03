@@ -1,5 +1,5 @@
 
-#define setObject
+#define setDummyObject
 ///setDummyObject(object)
 //set dummy object for storing data
 global.ITObject = argument0;
